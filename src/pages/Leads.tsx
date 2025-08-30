@@ -1,7 +1,9 @@
+import { Header } from '@/components'
+
 function Leads() {
   return (
     <>
-      <h1>LEADS</h1>
+      <Header />
     </>
   )
 }

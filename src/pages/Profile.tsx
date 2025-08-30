@@ -1,7 +1,9 @@
+import { Header } from '@/components'
+
 function Profile() {
   return (
     <>
-      <h1>PROFILE</h1>
+      <Header />
     </>
   )
 }
